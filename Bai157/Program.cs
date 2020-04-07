@@ -39,7 +39,6 @@ namespace Bai157
                 Console.WriteLine(a[i]);
             }
             Console.ReadKey();
->>>>>>> code done 157
         }
     }
 }
