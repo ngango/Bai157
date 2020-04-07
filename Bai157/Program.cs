@@ -11,6 +11,7 @@ namespace Bai157
         static void Main(string[] args)
         {
             var a = 1;
+            var b = 0;
         }
     }
 }
