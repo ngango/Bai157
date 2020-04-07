@@ -1,0 +1,7 @@
+E:\Project\BT tu duy\Bai157\Bai157\bin\Debug\Bai157.exe.config
+E:\Project\BT tu duy\Bai157\Bai157\bin\Debug\Bai157.exe
+E:\Project\BT tu duy\Bai157\Bai157\bin\Debug\Bai157.pdb
+E:\Project\BT tu duy\Bai157\Bai157\obj\Debug\Bai157.csprojAssemblyReference.cache
+E:\Project\BT tu duy\Bai157\Bai157\obj\Debug\Bai157.csproj.CoreCompileInputs.cache
+E:\Project\BT tu duy\Bai157\Bai157\obj\Debug\Bai157.exe
+E:\Project\BT tu duy\Bai157\Bai157\obj\Debug\Bai157.pdb
